@@ -2,7 +2,7 @@ SPARKS Foundation
 The Sparks Foundation Internship Project : Payment Gateway Integration
 A Dynamic Website is used to collect Donation for poor and needy people.
 Stack used -
-Front-end : HTML, CSS, Bootstrap & Javascript
+Front-end : HTML, CSS, Bootstrap
 Back-end : PHP
 
 The Database contains Razorpay
